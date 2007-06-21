@@ -2,7 +2,7 @@
 %define plugin	digicam
 %define name	vdr-plugin-%plugin
 %define version	1.0.2
-%define rel	3
+%define rel	4
 
 Summary:	VDR plugin: Plugin to access a digital camera
 Name:		%name
