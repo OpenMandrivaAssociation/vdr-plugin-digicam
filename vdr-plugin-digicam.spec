@@ -10,7 +10,7 @@ Version:	%version
 Release:	%mkrel %rel
 Group:		Video
 License:	GPL
-URL:		http://turku.wi-bw.tfh-wildau.de/~pjuszack/digicam/index_en.html
+URL:		https://turku.wi-bw.tfh-wildau.de/~pjuszack/digicam/index_en.html
 Source:		http://194.95.44.38/~pjuszack/digicam/download/vdr-%plugin-%version.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	vdr-devel >= 1.4.1-6
