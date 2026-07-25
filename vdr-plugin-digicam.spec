@@ -7,7 +7,7 @@
 Summary:	VDR plugin: Plugin to access a digital camera
 Name:		%name
 Version:	%version
-Release:	%mkrel %rel
+Release:	%rel.1
 Group:		Video
 License:	GPL
 URL:		https://turku.wi-bw.tfh-wildau.de/~pjuszack/digicam/index_en.html
